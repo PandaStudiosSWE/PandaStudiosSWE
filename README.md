@@ -48,7 +48,7 @@
 <p align="center">Here are some of my <br>
 most used social medias</p>
 <p align="center"> Discord:  ★ 𝘗𝘢𝘯𝘥𝘢𝘚𝘵𝘶𝘥𝘪𝘰𝘴 ★#6969 </p>
-    <b href="https://www.patreon.com/pandagaming_se?fan_landing=true" align="center"> Patreon </b>
+    <b align="center" href="https://www.patreon.com/pandagaming_se?fan_landing=true"> Patreon </b>
 </div>
 <br>
 <div>
