@@ -12,7 +12,7 @@
 <b>Loves:</b> Coding, Gaming, Hosting Servers, Playing around in all Linux Distros ;)  -///-
 </li>
 <li>
-<b>Gender:</b> Him/He/Male/18 Wheeler
+<b>Gender:</b> He/Him/Male/18 Wheeler
 </li>
 <li>
 <b>Hobbys:</b> Tech Stuff, Music, RC, Going to the Bar 
