@@ -3,7 +3,7 @@ Welcome Traveler 👋
 ![](https://komarev.com/ghpvc/?username=pandastudiosswe&color=blueviolet)
 
 - Software Developer | Game Developer | Student 
-- Languages: Python, Go, JavaScript/Node.js, PHP, HTML, CSS, Lua, C, C++, C#, Bash
+- Languages: Python, Lua, C, C++, C#, Bash, Go, PHP, HTML, CSS
  
 
 Website:
