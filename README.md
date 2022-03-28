@@ -7,7 +7,7 @@ Welcome Traveler 👋
  
 
 Website:
-  - Personal: [pandagaming.se](https://www.pandagaming.se/)
+  - [pandagaming.se](https://www.pandagaming.se/)
 
 Contact:
   - Discord: ★ඞ 𝘗𝘢𝘯𝘥𝘢𝘚𝘵𝘶𝘥𝘪𝘰𝘴 ඞ★#0001
